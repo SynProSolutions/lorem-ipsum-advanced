@@ -13,3 +13,9 @@ Die Konfliktforschung untersucht die Entstehung und den Verlauf von Konflikten
 und entwickelt Lösungsstrategien, um das Handeln in Konflikten zu verändern, um
 erwünschte Entwicklungen zu fördern und unerwünschte zu begrenzen.
 
+Konfliktsituation
+-----------------
+
+Ein Konflikt entsteht zwischen zwei oder mehreren Personen bzw.
+Konfliktparteien (wer?) und mindestens einer Konfliktursache (was?) und einem
+Konfliktverhalten (wie?).
